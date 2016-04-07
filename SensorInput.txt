@@ -1,0 +1,9 @@
+isWell: False
+Temperature: 72
+Humidity: 45
+OxygenLevel: 21
+Pressure: 66
+ExtWallInerStrTemp: 88
+Smoke: False
+ChlorineMethaneGas: False
+OutsideTemp: 72.0
